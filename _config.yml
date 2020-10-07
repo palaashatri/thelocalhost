@@ -27,10 +27,23 @@ url: "https://netizener.github.io" # the base hostname & protocol for your site,
 twitter_username: PalaashA
 github_username:  netizener
 
+author:
+  name: Palaash Atri
+  email: "palaash.atri@gmail.com"
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+show_excerpts: true
+minima:
+  skin: dark
+  social_links:
+    twitter: PalaashA
+    github: netizener
+    linkedin: palaasha
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
