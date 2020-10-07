@@ -28,7 +28,7 @@ twitter_username: PalaashA
 github_username:  netizener
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
