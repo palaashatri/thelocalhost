@@ -12,8 +12,20 @@ A blog, of sorts? Read me rant or obsess on things I like and things I hate in t
 - Open up your preferred browser and go to `localhost:4000` to see the blog in action
 
 ### Customizing the Blog : 
-- To add or remove posts, follow the instructions [here](https://jekyllrb.com/docs/posts/)
-- To customize the site theme, follow the instructions [here](https://github.com/jekyll/minima)
+- To add or remove posts, open up the `posts` directory and create new files in the format `YYYY-MM-DD-TITLE.md`
+- To change the name and other details of the site, open `_config.yml` in your favorite text editor and change the following fields :
+    - `title: your preferred title for the website`
+    - `email: youremail@provider.domain`
+    - `description: your multiline description`
+    - `baseurl: /`
+    - `url: yourgithubusername.github.io`
+    - `twitter_username: twitterusernamewithout@`
+    - `github_username:  githubusername`
+
+    - under `author`:
+       - `name: Your Name`
+       - `email: "youremail@provider.domain"`
+    - under `social_links` change your Twitter, GitHub and LinkedIn usernames
 
 Deployed At : (https://netizener.github.io/thelocalhost)
 
