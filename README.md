@@ -29,7 +29,5 @@ A blog, of sorts? Read me rant or obsess on things I like and things I hate in t
        - `email: "youremail@provider.domain"`
     - under `social_links` change your Twitter, GitHub and LinkedIn usernames
 
-Deployed At : (https://netizener.github.io/thelocalhost)
-
 Happy Blogging!
 > PS : Remove all posts in `_posts` directory before you make your own ones.
