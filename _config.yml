@@ -32,19 +32,19 @@ author:
   email: "palaash.atri@gmail.com"
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-# remote_theme: https://github.com/jekyll/minima
+remote_theme: https://github.com/jekyll/minima
 
 show_excerpts: true
 minima:
   skin: dark
   social_links:
-    twitter: PalaashA
-    github: netizener
+    twitter: palaashatri
+    github: palaashatri
     linkedin: palaasha
 
 
