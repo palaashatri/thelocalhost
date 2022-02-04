@@ -1,5 +1,5 @@
 # thelocalhost
-![image](https://user-images.githubusercontent.com/40315170/149148410-db22314f-1684-4b53-95ca-d64eb87738f1.png)
+![image]()
 
 A blog, of sorts? Read me rant or obsess on things I like and things I hate in tech.
 
