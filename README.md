@@ -9,7 +9,7 @@ A blog, of sorts? Read me rant or obsess on things I like and things I hate in t
 
 ### Localhost Deployment Instructions : 
 - Install Jekyll dependencies by following the instructions [here](https://jekyllrb.com/docs/installation/)
-- Clone this repository using `git clone https://github.com/netizener/thelocalhost.git`
+- Clone this repository using `git clone https://github.com/palaashatri/thelocalhost.git`
 - Fire up a terminal, and type `bundle exec jekyll serve`
 - Open up your preferred browser and go to `localhost:4000` to see the blog in action
 
